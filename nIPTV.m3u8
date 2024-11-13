@@ -1,0 +1,103 @@
+#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://AqFad2811.github.io/epg/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://frestoinc.github.io/nIPTV/logo/Tv1.png",TV1
+https://frestoinc.github.io/nIPTV/channels/Tv1/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://frestoinc.github.io/nIPTV/logo/Tv2.png",TV2
+https://frestoinc.github.io/nIPTV/channels/Tv2/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://frestoinc.github.io/nIPTV/logo/Tv3.png",TV3
+https://frestoinc.github.io/nIPTV/channels/Tv3/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://frestoinc.github.io/nIPTV/logo/OkeyTv.png",Okey Tv
+https://frestoinc.github.io/nIPTV/channels/TvOkey/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://frestoinc.github.io/nIPTV/logo/Tv6.png",TV6
+https://frestoinc.github.io/nIPTV/channels/Tv6/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://frestoinc.github.io/nIPTV/logo/DidikTv.png",DidikTv KPM
+https://frestoinc.github.io/nIPTV/channels/DidikTvKPM/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://frestoinc.github.io/nIPTV/logo/8tv.png",8TV
+https://frestoinc.github.io/nIPTV/channels/8tv/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://frestoinc.github.io/nIPTV/logo/Tv9.png",TV9
+https://frestoinc.github.io/nIPTV/channels/Tv9/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://frestoinc.github.io/nIPTV/logo/BeritaRtm.png",BERITA RTM
+https://frestoinc.github.io/nIPTV/channels/BeritaRTM/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://frestoinc.github.io/nIPTV/logo/SukanRtm.png",SUKAN RTM
+https://frestoinc.github.io/nIPTV/channels/SukanRTM/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
+#EXTINF:-1 group-title="nIPTV" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/frestoinc/nIPTV/raw/main/logo/Bernama.png", BERNAMA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="TVS"  tvg- tvg-logo="https://frestoinc.github.io/nIPTV/logo/Tvs.jpg",TVS
+https://frestoinc.github.io/nIPTV/channels/Tvs/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://frestoinc.github.io/nIPTV/logo/TvIkim.png", TV Ikim
+https://frestoinc.github.io/nIPTV/channels/TvIkim/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://github.com/frestoinc/nIPTV/raw/main/logo/AstroAwani.png", Astro Awani
+https://frestoinc.github.io/nIPTV/channels/AstroAwani/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://github.com/frestoinc/nIPTV/raw/main/logo/DuniaSinema.png", Dunia Sinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://frestoinc.github.io/nIPTV/channels/DuniaSinema/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/frestoinc/nIPTV/raw/main/logo/TvAlhijrah.png", Tv Alhijrah
+https://frestoinc.github.io/nIPTV/channels/TvAlhijrah/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
+https://frestoinc.github.io/nIPTV/channels/DewanRakyat/index.m3u8
+
+#EXTINF:-1 group-title="nIPTV" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
+https://frestoinc.github.io/nIPTV/channels/DewanNegara/index.m3u8
+
+#EXTINF:-1 group-title="kids" tvg-id="CartoonNetwork " tvg-logo="https://frestoinc.github.io/nIPTV/logo/CN.png",CartoonNetwork
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+
+#EXTINF:-1 group-title="radio" tvg-id="Hot FM" tvg-name="Hot Fm" tvg-logo="https://frestoinc.github.io/nIPTV/logo/HotFm.png",Hot Fm
+https://frestoinc.github.io/nIPTV/radio/HotFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="Best FM" tvg-name="Best Fm" tvg-logo="https://frestoinc.github.io/nIPTV/logo/bestfm.png",Best Fm
+https://frestoinc.github.io/nIPTV/radio/BestFm/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="Kool FM" tvg-name="Kool 101" tvg-logo="https://frestoinc.github.io/nIPTV/logo/Kool101.png",Kool 101
+https://frestoinc.github.io/nIPTV/radio/BuletinFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="ERA" tvg-name="Era Fm" tvg-logo="https://frestoinc.github.io/nIPTV/logo/Era.png",Era
+https://frestoinc.github.io/nIPTV/radio/Era/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="Fly FM" tvg-name="Fly Fm" tvg-logo="https://frestoinc.github.io/nIPTV/logo/FlyFm.png",Fly Fm
+https://frestoinc.github.io/nIPTV/radio/FlyFm/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="Hitz FM" tvg-name="Hitz Fm" tvg-logo="https://frestoinc.github.io/nIPTV/logo/HitzFm.png",Hitz Fm
+https://frestoinc.github.io/nIPTV/radio/HitzFm/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="Johor FM" tvg-name=" Johor FM " tvg-logo="https://frestoinc.github.io/nIPTV/logo/JohorFm.png",Johor Fm
+https://frestoinc.github.io/nIPTV/radio/JohorFm/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="NASFM" tvg-name="Nasional Fm" tvg-logo="https://frestoinc.github.io/nIPTV/logo/NasionalFm.png",NasionalFm
+https://frestoinc.github.io/nIPTV/radio/NasionalFm/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="Klasik FM" tvg-name="Radio Klasik" tvg-logo="https://frestoinc.github.io/nIPTV/logo/RadioKlasik.png",Radio Klasik
+https://frestoinc.github.io/nIPTV/radio/RadioKlasik/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="Sinar FM" tvg-name="Sinar Fm" tvg-logo="https://frestoinc.github.io/nIPTV/logo/SinarFm.png",SinarFm
+https://frestoinc.github.io/nIPTV/radio/SinarFm/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="Suria FM" tvg-name="Suria Fm" tvg-logo="https://frestoinc.github.io/nIPTV/logo/Suria.png",SuriaFm
+https://frestoinc.github.io/nIPTV/radio/SuriaFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="Ria FM" tvg-name="Ria89.7 Fm" tvg-logo="https://frestoinc.github.io/nIPTV/logo/RiaFm.png",Ria897Fm
+https://frestoinc.github.io/nIPTV/radio/RiaFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="Asyik FM" tvg-name="Asyik Fm" tvg-logo="https://frestoinc.github.io/nIPTV/logo/AsyikFm.png",AsyikFm
+https://frestoinc.github.io/nIPTV/radio/AsyikFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="Eight FM" tvg-name="8 Fm tvg-logo="https://frestoinc.github.io/nIPTV/logo/8Fm.png",8Fm 
+https://frestoinc.github.io/nIPTV/radio/8Fm/playlist.m3u8
