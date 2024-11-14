@@ -3,7 +3,7 @@ MALAYSIA TV CHANNELS
 
 ## CHANNEL LISTS
 * URL LINK BERNAMA DIRECT FROM [iptv-org](https://github.com/iptv-org/iptv)👈🏻
-* FULL M3U8 WITF REFERRER HTTP(S) [myIPtv](https://raw.githubusercontent.com/frestoinc/nIPTV/main/myIPtv.m3u8)👈🏻
+* FULL M3U8 WITF REFERRER HTTP(S) [myIPtv](https://raw.githubusercontent.com/frestoinc/nIPTV/main/nIPTV.m3u8)👈🏻
 
 | TVD-GROUP | TVG-ID | TVG-LOGO | TV URL | REFERRER |
 |--|--|--|--|--|
