@@ -57,8 +57,8 @@ https://frestoinc.github.io/nIPTV/channels/DewanRakyat/index.m3u8
 #EXTINF:-1 group-title="nIPTV" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
 https://frestoinc.github.io/nIPTV/channels/DewanNegara/index.m3u8
 
-#EXTINF:-1 group-title="nIPTV" tvg-id="Mediacorp Channel 5" tvg-name="Mediacorp Channel 5" tvg-logo="https://github.com/frestoinc/nIPTV/raw/main/logo/MediacorpChannel5.png",Mediacorp Channel 5
-https://frestoinc.github.io/nIPTV/channels/MediacorpChannel5/index.m3u8
+#EXTINF:-1 group-title="nIPTV" tvg-id="SG Channel 5" tvg-name="SG Channel 5" tvg-logo="https://github.com/frestoinc/nIPTV/raw/main/logo/SGChannel5.png",SG Channel 5
+https://frestoinc.github.io/nIPTV/channels/SGChannel5/index.m3u8
 
 #EXTINF:-1 group-title="kids" tvg-id="CartoonNetwork " tvg-logo="https://frestoinc.github.io/nIPTV/logo/CN.png",CartoonNetwork
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
